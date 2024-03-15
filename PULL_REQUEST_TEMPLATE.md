@@ -10,4 +10,5 @@
 
 - [ ] Tests written / changed
 - [ ] Documentation updated
+- [ ] Changelog updated
 - [ ] Deployment updated
